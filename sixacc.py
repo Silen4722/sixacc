@@ -52,7 +52,7 @@ ACCOUNTS = [
     }
 ]
 
-bot_token = '8154627364:AAF85QqZNLCn06dfc1guckYvzyfjjwkRyKE'
+bot_token = '8154627364:AAG1YkrensrF2QqxrekUWDlo2V3dTz9_3LI'
 source_chat = '@VitalikOnyshch'  # Чат для пересылки сообщений
 
 # Инициализация
